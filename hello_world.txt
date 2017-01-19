@@ -1,1 +1,3 @@
 Hello, this is my first bitmaker git file
+
+This is a change I'm copying to see on GitHub
