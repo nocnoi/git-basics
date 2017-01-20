@@ -6,3 +6,5 @@ This is a change that I'm making directly on GitHub
 
 
 Something new
+
+Hello from cloned project
